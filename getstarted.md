@@ -51,6 +51,23 @@ Developing and maintaining Beautiful Jekyll takes a lot of time and effort - tha
 **[Become a sponsor for Beautiful Jekyll and unlock new features\!](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)**
 
 <div class="custom-section">
+<div class="gs-section-01" markdown="1">
+
+### 1. Fork the Beautiful Jekyll repository 
+<style>
+.gs-section-01 h3 { 
+     color: red;
+}
+
+.gs-section-01 p {
+     font-size: 30px;
+}
+
+
+Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
+by clicking the Fork button on the top right corner in GitHub.
+</style>
+</div>
 
 ## Build your website in 3 steps
 
