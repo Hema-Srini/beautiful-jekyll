@@ -26,7 +26,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn Markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"              
-    -Table Demo: "https://github.com/Hema-Srini/beautiful-jekyll/blob/master/table-demo.md"  # ADD THIS LINK
+  - Table Demo: "https://hema-srini.github.io/beautiful-jekyll/table-demo"    # ADD THIS LINK
 
 ################
 # --- Logo --- #
