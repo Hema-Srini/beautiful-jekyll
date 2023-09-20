@@ -71,7 +71,14 @@ div class="gs-section-01" markdown="1">
 Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
 by clicking the Fork button on the top right corner in GitHub.
 
-</div>
+<div class="gs-section-01" markdown="1">
+
+### 1. Fork the Beautiful Jekyll repository 
+
+Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
+by clicking the Fork button on the top right corner in GitHub.
+
+
 
 <style>
 .gs-section-01 h3 { 
@@ -82,18 +89,46 @@ by clicking the Fork button on the top right corner in GitHub.
      font-size: 30px;
 }
 </style>
+</div>
+### 2. Rename the repository to `YOURUSERNAME.github.io`
+
+<div class="gs-section-02" markdown="1">
 
 ### 2. Rename the repository to `YOURUSERNAME.github.io`
 
-You'll see the word "repository" used a lot in GitHub - it simply means "project". Under __*Repository name*__ you should see the name `beautiful-jekyll`, this is where you need to rename your project to `YOURUSERNAME.github.io` (replace `YOURUSERNAME` with your GitHub user name). It's important to use this exact name so that GitHub will recognize it and automatically create a website for this project.   
+You'll see the word "repository" used a lot in GitHub - it simply means "project". Under __*Repository name*__ you should see the name `beautiful-jekyll`, this is where you need to rename your project to `YOURUSERNAME.github.io` (replace `YOURUSERNAME` with your GitHub user name).
 
-> Tip: If you want to use a different URL for your website, check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain)
- 
+</div>
+
+<style>
+.gs-section-02 h3 { 
+     color: blue;
+}
+
+.gs-section-02 p {
+     font-size: 24px;
+}
+</style>
+
 ### 3. Customize your website settings
 
-Edit the `_config.yml` file to change any settings you want. To edit the file, first click on it to view the file, and on the next page click on the pencil icon to edit it (watch the video tutorial above if you're confused).  The settings in the file are self-explanatory and there are comments inside the file to help you understand what each setting does. Any line that begins with a hashtag (`#`) is a comment, and the other lines are actual settings. After changing the settings, click the green __*Commit changes*__ button to save these edits.
+<div class="gs-section-03" markdown="1">
 
-> Note: In the video above, only one setting in the `_config.yml` file is edited, but you should go through the rest of the settings as well.
+### 3. Customize your website settings
+
+Edit the `_config.yml` file to change any settings you want. To edit the file, first click on it to view the file, and on the next page click on the pencil icon to edit it (watch the video tutorial above if you're confused). The settings in the file are self-explanatory and there are comments inside the file to help you understand what each setting does.
+
+</div>
+
+<style>
+.gs-section-03 h3 { 
+     color: green;
+}
+
+.gs-section-03 p {
+     font-size: 20px;
+}
+</style>
 
 ### 4. Congratulations! You have a website!
 
